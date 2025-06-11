@@ -5,10 +5,10 @@
 
 <h1 align="center">Prathist Gowda Ashwath Narayana</h1>
 
-<p align="center"><strong>Data Engineer | Deep Learning | NLP | MLOps | Generative AI | Aspirant AI/ML Engineer</strong></p>
+<p align="center"><strong>Data Engineer | ETL Developer | AI & ML Integration | Data Security and Gobernance | SQL & Database Management</strong></p>
 
 <p align="center">
-  I am a passionate and results-driven Senior Data Engineer with expertise in Deep Learning, Natural Language Processing (NLP), Generative AI, and MLOps. Over the years, I have gained extensive experience in solving complex problems and building scalable solutions in the fields of Machine Learning and Data Engineering. My core skills revolve around utilizing the latest tools and technologies to create intelligent systems that drive impactful results. 
+  I am a Senior Data Engineer with 10+ years of experience architecting and optimizing large-scale, cloud-native data platforms across finance, healthcare, and e-commerce. My expertise includes Python, SQL, Bash, and advanced ETL pipeline automation using Apache Airflow, AWS Glue, and Informatica. I specialize in real-time data streaming with Kafka and Spark Structured Streaming, and have deep hands-on experience with AWS, Snowflake, Databricks, and Azure. I integrate machine learning and generative AI into data workflows to drive innovation, while ensuring data quality, security, and compliance with HIPAA, SOX, and GDPR. Skilled in DevOps/MLOps, containerization (Docker, Kubernetes), CI/CD, and infrastructure-as-code (Terraform), I support the full data lifecycle. My focus is on data modernization, automation, and delivering actionable insights. I’m known for strong collaboration, governance, and leadership in Agile, cross-functional teams, consistently delivering impactful results.
 </p>
 
 ---
@@ -29,29 +29,29 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2016 – 2017</td>
-      <td align="center">UFaber</td>
-      <td align="center">Maharashtra, IN</td>
+      <td align="center">2013 – 2015</td>
+      <td align="center">Apexon</td>
+      <td align="center">Bengaluru, IN</td>
     </tr>
     <tr>
-      <td align="center">2017 – 2020</td>
-      <td align="center">DocuSign</td>
-      <td align="center">Banner Elk, NC</td>
+      <td align="center">2018 – 2019</td>
+      <td align="center">Nike</td>
+      <td align="center">New York, NY</td>
     </tr>
     <tr>
-      <td align="center">2020 – 2021</td>
-      <td align="center">Avhana Health</td>
-      <td align="center">Baltimore, MD</td>
+      <td align="center">2019 – 2021</td>
+      <td align="center">CitiBank</td>
+      <td align="center">Frisco, TX</td>
     </tr>
     <tr>
-      <td align="center">2021 – 2022</td>
-      <td align="center">SailityHealth</td>
-      <td align="center">Westminister, CO</td>
+      <td align="center">2021 – 2023</td>
+      <td align="center">Prime Therapeutics</td>
+      <td align="center">Scottsdale, AZ</td>
     </tr>
     <tr>
-      <td align="center">2023 – Present</td>
-      <td align="center">StateStreet</td>
-      <td align="center">Boston, MA</td>
+      <td align="center">2024 – Present</td>
+      <td align="center">Rippling</td>
+      <td align="center">Scottdale, AZ</td>
     </tr>
   </tbody>
 </table>
@@ -108,11 +108,11 @@
 <h2 align="center">📈 Featured Projects</h2>
 
 <p align="center">
-✅ Sentiment Analyzer &nbsp;&nbsp;
-✅ Fraud Detection &nbsp;&nbsp;
-✅ Chatbot using GPT &nbsp;&nbsp;
-✅ Resume Screening AI &nbsp;&nbsp;
-✅ Recommendation Engine
+✅ Intelligent Document Understanding and Automation for Private Markets &nbsp;&nbsp;
+✅ Healthcare Data Modernization and AI Readiness Initiative &nbsp;&nbsp;
+✅ Enterprise Data Platform Modernization for Risk and Compliance Analytics &nbsp;&nbsp;
+✅ Cloud-Based Master Data Management Modernization &nbsp;&nbsp;
+✅ Data Consolidation and Reporting for IT Infrastructure Services
 </p>
 
 ---
