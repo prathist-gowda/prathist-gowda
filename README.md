@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/prathist-gowda" 
-       alt="Prathist Gowda Ashwath Narayana" width="180" height="180" style="border-radius:50%; border: 5px solid #fff;">
+       alt="Prathist Gowda" width="180" height="180" style="border-radius:50%; border: 5px solid #fff;">
 </p>
 
 <h1 align="center">Prathist Gowda Ashwath Narayana</h1>
