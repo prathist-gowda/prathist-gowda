@@ -144,5 +144,5 @@
 ---
 
 <p align="center">
-  &copy; 2025 Prathist Gowda Ashwath Narayana
+  &copy; 2025 Prathist Gowda A N
 </p>
