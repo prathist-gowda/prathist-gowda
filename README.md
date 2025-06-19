@@ -8,7 +8,7 @@
 <p align="center"><strong>Data Engineer | ETL Developer | AI & ML Integration | Data Security and Governance | SQL & Database Management</strong></p>
 
 <p align="center">
-  I am a Senior Data Engineer with 10+ years of experience architecting and optimizing large-scale, cloud-native data platforms across finance, healthcare, and e-commerce. My expertise includes Python, SQL, Bash, and advanced ETL pipeline automation using Apache Airflow, AWS Glue, and Informatica. I specialize in real-time data streaming with Kafka and Spark Structured Streaming, and have deep hands-on experience with AWS, Snowflake, Databricks, and Azure. I integrate machine learning and generative AI into data workflows to drive innovation, while ensuring data quality, security, and compliance with HIPAA, SOX, and GDPR. Skilled in DevOps/MLOps, containerization (Docker, Kubernetes), CI/CD, and infrastructure-as-code (Terraform), I support the full data lifecycle. My focus is on data modernization, automation, and delivering actionable insights. I’m known for strong collaboration, governance, and leadership in Agile, cross-functional teams, consistently delivering impactful results.
+  I am a AI/ML Engineer with 10+ years of experience architecting and optimizing large-scale, cloud-native data platforms across finance, healthcare, and e-commerce. My expertise includes Python, SQL, Bash, and advanced ETL pipeline automation using Apache Airflow, AWS Glue, and Informatica. I specialize in real-time data streaming with Kafka and Spark Structured Streaming, and have deep hands-on experience with AWS, Snowflake, Databricks, and Azure. I integrate machine learning and generative AI into data workflows to drive innovation, while ensuring data quality, security, and compliance with HIPAA, SOX, and GDPR. Skilled in DevOps/MLOps, containerization (Docker, Kubernetes), CI/CD, and infrastructure-as-code (Terraform), I support the full data lifecycle. My focus is on data modernization, automation, and delivering actionable insights. I’m known for strong collaboration, governance, and leadership in Agile, cross-functional teams, consistently delivering impactful results.
 </p>
 
 ---
@@ -51,7 +51,7 @@
     <tr>
       <td align="center">2024 – Present</td>
       <td align="center">Rippling</td>
-      <td align="center">Scottdale, AZ</td>
+      <td align="center">San Fransisco, CA</td>
     </tr>
   </tbody>
 </table>
@@ -67,6 +67,10 @@
   <tr>
     <th>Category</th>
     <th>Skills / Tools</th>
+  </tr>
+   <tr>
+    <td><strong>Generative AI</strong></td>
+    <td>Prompt Engineering, RAG, Pinecone, ChromaDB, OpenAI APIs</td>
   </tr>
   <tr>
     <td><strong>Foundations</strong></td>
@@ -91,10 +95,6 @@
   <tr>
     <td><strong>Data Engineering</strong></td>
     <td>ETL, Airflow, Spark, Kafka, SQL, Snowflake, Delta Lake</td>
-  </tr>
-  <tr>
-    <td><strong>Generative AI</strong></td>
-    <td>Prompt Engineering, RAG, Pinecone, ChromaDB, OpenAI APIs</td>
   </tr>
   <tr>
     <td><strong>Soft Skills</strong></td>
@@ -125,7 +125,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://medium.com/@prathist22" target="_blank">
+<a href="https://medium.com/@prathist" target="_blank">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
 </a>
 
