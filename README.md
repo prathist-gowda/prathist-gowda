@@ -5,7 +5,7 @@
 
 <h1 align="center">Prathist Gowda A N</h1>
 
-<p align="center"><strong>Data Engineer | ETL Developer | AI & ML Integration | Data Security and Governance | SQL & Database Management</strong></p>
+<p align="center"><strong>AI/ML Engineer | Data Engineer | ETL Developer | AI & ML Integration | Data Security and Governance | SQL & Database Management</strong></p>
 
 <p align="center">
   I am a AI/ML Engineer with 10+ years of experience architecting and optimizing large-scale, cloud-native data platforms across finance, healthcare, and e-commerce. My expertise includes Python, SQL, Bash, and advanced ETL pipeline automation using Apache Airflow, AWS Glue, and Informatica. I specialize in real-time data streaming with Kafka and Spark Structured Streaming, and have deep hands-on experience with AWS, Snowflake, Databricks, and Azure. I integrate machine learning and generative AI into data workflows to drive innovation, while ensuring data quality, security, and compliance with HIPAA, SOX, and GDPR. Skilled in DevOps/MLOps, containerization (Docker, Kubernetes), CI/CD, and infrastructure-as-code (Terraform), I support the full data lifecycle. My focus is on data modernization, automation, and delivering actionable insights. I’m known for strong collaboration, governance, and leadership in Agile, cross-functional teams, consistently delivering impactful results.
