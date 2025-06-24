@@ -130,7 +130,7 @@
 </a>
 
 <a href="mailto:prathistt@gmail.com">
-  <img src="https://img.shields.io/badge/Email-prathistgowda222@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-prathistt@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="tel:+16812381236">
