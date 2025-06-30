@@ -8,7 +8,7 @@
 <p align="center"><strong> Data Engineer | ETL Developer | AI & ML Integration | Data Security and Governance | SQL & Database Management</strong></p>
 
 <p align="center">
-  I am a Data Engineer with 8 years of experience architecting and optimizing large-scale, cloud-native data platforms across finance, healthcare, and e-commerce. My expertise includes Python, SQL, Bash, and advanced ETL pipeline automation using Apache Airflow, AWS Glue, and Informatica. I specialize in real-time data streaming with Kafka and Spark Structured Streaming, and have deep hands-on experience with AWS, Snowflake, Databricks, and Azure. I integrate machine learning and generative AI into data workflows to drive innovation, while ensuring data quality, security, and compliance with HIPAA, SOX, and GDPR. Skilled in DevOps/MLOps, containerization (Docker, Kubernetes), CI/CD, and infrastructure-as-code (Terraform), I support the full data lifecycle. My focus is on data modernization, automation, and delivering actionable insights. I’m known for strong collaboration, governance, and leadership in Agile, cross-functional teams, consistently delivering impactful results.
+  I am a Data Engineer with 10 years of experience architecting and optimizing large-scale, cloud-native data platforms across finance, healthcare, and e-commerce. My expertise includes Python, SQL, Bash, and advanced ETL pipeline automation using Apache Airflow, AWS Glue, and Informatica. I specialize in real-time data streaming with Kafka and Spark Structured Streaming, and have deep hands-on experience with AWS, Snowflake, Databricks, and Azure. I integrate machine learning and generative AI into data workflows to drive innovation, while ensuring data quality, security, and compliance with HIPAA, SOX, and GDPR. Skilled in DevOps/MLOps, containerization (Docker, Kubernetes), CI/CD, and infrastructure-as-code (Terraform), I support the full data lifecycle. My focus is on data modernization, automation, and delivering actionable insights. I’m known for strong collaboration, governance, and leadership in Agile, cross-functional teams, consistently delivering impactful results.
 </p>
 
 ---
@@ -29,29 +29,29 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2016</td>
+      <td align="center">2013 - 2015</td>
       <td align="center">Apexon</td>
       <td align="center">Bengaluru, IN</td>
     </tr>
     <tr>
-      <td align="center">2017 – 2019</td>
+      <td align="center">2018 – 2019</td>
       <td align="center">Nike</td>
-      <td align="center">Bengaluru, IN</td>
+      <td align="center">New York City, New York</td>
     </tr>
     <tr>
       <td align="center">2019 – 2021</td>
       <td align="center">CitiBank</td>
-      <td align="center">Bengaluru, IN</td>
+      <td align="center">Frisco, Texas</td>
     </tr>
     <tr>
       <td align="center">2021 – 2023</td>
-      <td align="center">Rippling</td>
-      <td align="center">Bengaluru, IN</td>
+      <td align="center">Prime Therapeutics</td>
+      <td align="center">Scottsdale, AZ</td>
     </tr>
     <tr>
       <td align="center">2024 – Present</td>
-      <td align="center">Prime Therapeutics</td>
-      <td align="center">Scottsdale, AZ</td>
+      <td align="center">Rippling</td>
+      <td align="center">San Francisco, CA</td>
     </tr>
   </tbody>
 </table>
