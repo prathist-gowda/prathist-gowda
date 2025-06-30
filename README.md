@@ -36,12 +36,12 @@
     <tr>
       <td align="center">2018 – 2019</td>
       <td align="center">Nike</td>
-      <td align="center">New York City, New York</td>
+      <td align="center">New York City, NY</td>
     </tr>
     <tr>
       <td align="center">2019 – 2021</td>
       <td align="center">CitiBank</td>
-      <td align="center">Frisco, Texas</td>
+      <td align="center">Frisco, TX</td>
     </tr>
     <tr>
       <td align="center">2021 – 2023</td>
